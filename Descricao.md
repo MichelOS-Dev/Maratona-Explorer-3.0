@@ -1,0 +1,3 @@
+# RocketCoffee
+Esse foi um projeto desenvolvido durante o desenvolver da Maratona Explorer 3.0 da Rocketseat.  
+A ideia principal era desenvolver um cardápio online...
